@@ -7,7 +7,6 @@ import os
 from PyQt6.QtWidgets import QFrame, QApplication, QComboBox, QWidget, QVBoxLayout, QLabel, QLineEdit, QPushButton, QFileDialog, QMessageBox, QDialog, QTableView, QHeaderView
 from PyQt6.QtCore import QAbstractTableModel, Qt
 
-import json
 '''
 nog te doen, hoe om te gaan als de excel file niet zo strak is als ik verwacht. Dus nan waardes, en zero bedragen. En extra regels of kolommen waar ik 
 helemaal niets mee doet. Daarna is het langzaam tijd om het te uploaden op github. Oh ja, ook nog bic check of partij die betaalt laten draaien.
