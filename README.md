@@ -1,5 +1,5 @@
 # rabobank_sepa
-Tool to create a batch payment from Rabobank business accounts
+Tool to create a batch payment for Rabobank business accounts from an excel sheet
 
 # Introduction
 Sometimes you need to make a lot of payments with a business account. For examnple if you run a local football club, and you need to pay
